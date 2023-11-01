@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Z1 {
+ public static void main(String[] args) {
+	int a, b, c;
+	Scanner ulaz = new Scanner(System.in);
+	System.out.println("Unesite broj a: ");
+	a = ulaz.nextInt();
+	System.out.println("Unesite broj b: ");
+	b = ulaz.nextInt();
+	c = a + b;
+	System.out.println("Zbir:" + c);
+
+ }
+}
