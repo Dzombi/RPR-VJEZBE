@@ -10,5 +10,6 @@ public class Z1 {
 	b = ulaz.nextInt();
 	c = a + b;
 	System.out.println("Zbir:" + c);
+
  }
 }
