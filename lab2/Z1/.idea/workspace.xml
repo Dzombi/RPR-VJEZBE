@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b5b5080-2983-4885-a170-bfc9560e0a2c" name="Changes" comment="123" />
+    <list default="true" id="9b5b5080-2983-4885-a170-bfc9560e0a2c" name="Changes" comment="123">
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/Z1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/Z1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/Z1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z1/Z1.java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/out/production/rpr-t1-z2/ba/unsa/etf/rpr/t1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/rpr-t1-z2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z2/src/main/java/ba/unsa/etf/rpr/t1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/Z3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/out/production/Z3/ba/unsa/etf/rpr/t1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/out/production/Z3/ba/unsa/etf/rpr/t1/Sat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/src/ba/unsa/etf/rpr/t1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Z3/src/ba/unsa/etf/rpr/t1/Sat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +107,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
