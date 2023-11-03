@@ -7,6 +7,6 @@ public class Program {
     public static Imenik imenik = new Imenik();
 
     public static void main(String[] args) {
-        
+
     }
 }
