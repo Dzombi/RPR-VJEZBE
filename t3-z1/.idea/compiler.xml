@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ETF Telefonski imenik" />
         <module name="t3-z1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="t3-z1" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
