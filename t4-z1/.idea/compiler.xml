@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lv4-z1" />
+        <module name="rpr-t4" />
+        <module name="t4-z2" />
       </profile>
     </annotationProcessing>
   </component>
