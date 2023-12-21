@@ -8,8 +8,8 @@
       <ListView fx:id="list" layoutX="14.0" layoutY="20.0" onMouseClicked="#promjenaKorisnika" prefHeight="190.0" prefWidth="240.0" />
       <ButtonBar layoutX="370.0" layoutY="214.0" prefHeight="26.0" prefWidth="219.0">
         <buttons>
-          <Button mnemonicParsing="false" onMouseClicked="#dodaj" prefHeight="10.0" prefWidth="115.0" text="Dodaj" />
-            <Button mnemonicParsing="false" onMouseClicked="#kraj" text="Kraj" />
+          <Button fx:id="btn_dodaj" mnemonicParsing="false" onMouseClicked="#dodaj" prefHeight="10.0" prefWidth="115.0" text="Dodaj" />
+            <Button fx:id="btn_kraj" mnemonicParsing="false" onMouseClicked="#kraj" text="Kraj" />
         </buttons>
       </ButtonBar>
       <TextField fx:id="ime" layoutX="435.0" layoutY="21.0" prefHeight="25.0" prefWidth="154.0" />

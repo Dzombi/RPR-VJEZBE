@@ -1,9 +1,7 @@
 package ba.unsa.etf.rpr.t7z1;
 
-import javafx.beans.Observable;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.collections.FXCollections;
-import javafx.collections.ObservableArray;
 import javafx.collections.ObservableList;
 
 public class KorisniciModel {
