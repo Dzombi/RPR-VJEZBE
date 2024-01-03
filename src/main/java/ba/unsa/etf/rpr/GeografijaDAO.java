@@ -83,8 +83,10 @@ public class GeografijaDAO {
         public Grad glavniGrad(String drzava) throws SQLException {
             Statement stmt = conn.createStatement();
             ResultSet result= stmt.executeQuery("SELECT g.id,g.naziv,g.broj_stanovnika,d.naziv FROM grad g, drzava d WHERE g.id=d.glavni_grad AND d.naziv='"+drzava+"'");
-            int id=result.getInt(1);
-            if(result.wasNull()){
+            int id=0;
+            try{
+            id=result.getInt(1);}
+            catch(Exception e){
                 return null;
             }
             String naziv=result.getString(2);
@@ -122,8 +124,10 @@ public class GeografijaDAO {
         public Drzava nadjiDrzavu(String drzava) throws SQLException {
             Statement stmt = conn.createStatement();
             ResultSet result= stmt.executeQuery("SELECT d.id,d.naziv,g.naziv FROM grad g, drzava d WHERE d.id=g.drzava AND g.id=d.glavni_grad AND d.naziv='"+drzava+"'");
-            int id=result.getInt(1);
-            if(result.wasNull()){
+            int id=0;
+            try{
+                id=result.getInt(1);}
+            catch(Exception e){
                 return null;
             }
             String naziv=result.getString(2);
